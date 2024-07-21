@@ -1,5 +1,5 @@
 # leivadaros.dev
-A clean and simple portfolio built with plain HTML, CSS & JavaScript with over 3.7K+ views 👨‍🚀🚀
+A clean and simple portfolio built with plain HTML, CSS & JavaScript with over 5K+ views 👨‍🚀🚀
 
 ![leivadaros-dev-dark](https://raw.githubusercontent.com/paraskevasleivadaros/leivadaros.dev/main/img/thumbnail.png)
 
